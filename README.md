@@ -6,6 +6,7 @@ This script scans a directory (recursively) for audio files and finds those that
 dependencies:
 Whisper
 FFMPEG (needs to be in PATH env variables)
+(If you need converted files: https://drive.google.com/file/d/10PHH9udahD8bAk5zJElc-GkyJ66cjjA5/view?usp=sharing) (By: lofty Helldivers Archive)
 
 Example Usage:
 python AudioSearch.py /path/to/audio/files
