@@ -8,7 +8,7 @@ Whisper
 FFMPEG (needs to be in PATH env variables)
 
 Example Usage:
-python find_sample_clips.py /path/to/audio/files
+python AudioSearch.py /path/to/audio/files
 
 Matches will be printed to stdout with the file path and transcribed line.
 
